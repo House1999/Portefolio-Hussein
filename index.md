@@ -76,10 +76,10 @@
   - Gérer le stock, la livraison et l'acheminement des produits commandés.
 
 
-- Interface WPF pour gérer un club de Tennis (POO - A3)
+- Interface WPF pour gérer un club de Tennis - POO (A3)
 
 
-- Application WPF permettant aux clients de soumettre des recettes et gagner de l'argent (points) quand un autre client utilise leur recette. (BDD - A3) 
+- Application WPF permettant aux clients de soumettre des recettes et gagner de l'argent (points) quand un autre client utilise leur recette. BDD (A3) 
 
   - Login
   - Supprimer recette
