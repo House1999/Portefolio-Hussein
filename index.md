@@ -76,6 +76,9 @@
   - Gérer le stock, la livraison et l'acheminement des produits commandés.
 
 
+- Interface WPF pour gérer un club de Tennis (POO - A3)
+
+
 - Application WPF permettant aux clients de soumettre des recettes et gagner de l'argent (points) quand un autre client utilise leur recette. (BDD - A3) 
 
   - Login
@@ -83,45 +86,3 @@
   - Gérer le stock des produits
   - Classement hébdomadaire et realtime des recettes et des clients.
   - Système de "points à gagner" dépendant du nombre de recettes achétées et soumises.
-<br>
-
-- Interface WPF pour gérer un club de Tennis (POO - A3)
-
-
-## To delete :
-
-You can use the [editor on GitHub](https://github.com/House1999/Portefolio-Hussein/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/House1999/Portefolio-Hussein/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
