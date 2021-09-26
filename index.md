@@ -8,7 +8,7 @@
   - Trouver les bonnes pratiques et les meilleurs méthodes d'évaluation des performances.
   - Créer un chatbot permettant d'expliquer le déroulement de l'alternance à l'ESILV.
   - Créer une interface web intégrant le chatbot
-<br>  
+
 
 - Hackathon CNN : Construire des réseaux de neurons (RNN, CNN etc..) pour prédire l'age d'un ormeau. - CNN (A4)
   - Utiliser plusieurs configurations et méthodes de pénalisation.
@@ -16,7 +16,7 @@
   - Savoir analyser les résultats.
   - Éviter l'overfitting et l'underfitting.
   - Ajuster les hyperparamètres (learning rate, L1 / L2 regularization etc..)
-<br>
+  /
 
 - Prédire le succès d'un film - PTS (A4)
   - Définir les features
@@ -30,7 +30,7 @@
 
   - Prédire si un client va acheter (ou non) le produit en question, en se basant sur plusieurs prédicteurs (age, job, salaire etc..)
   - Mettre "thought process" + report
-<br>
+<br/>
 
 - Web datamining : Map pour les étudiants étrangers et les touristes - Web semantics (A4)
 
@@ -38,7 +38,8 @@
   - Créer les queries avec SPARQL
   - Définir l'ontologie avec OWL.
   - Afficher la température, les monuments, les horaires des trains etc.. sur une carte (autour du point de départ choisi par l'utilisateur)
-<br>
+  
+  
 
 - Créer une API qui utilise un modèle de machine learning pour prédire une valeur en fonction des inputs du client - Python (A4)
 
