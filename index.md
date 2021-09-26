@@ -8,7 +8,8 @@
 
   - Trouver les bonnes pratiques et les meilleurs méthodes d'évaluation des performances.
   - Créer un chatbot permettant d'expliquer le déroulement de l'alternance à l'ESILV.
-
+  - Créer une interface web intégrant le chatbot
+  
 
 - Hackathon CNN : Construire des réseaux de neurons (RNN, CNN etc..) pour prédire l'age d'un ormeau. - CNN (A4)
 
@@ -82,8 +83,7 @@
   - Gérer le stock des produits
   - Classement hébdomadaire et realtime des recettes et des clients.
   - Système de "points à gagner" dépendant du nombre de recettes achétées et soumises.
-
-
+<br>
 
 - Interface WPF pour gérer un club de Tennis (POO - A3)
 
