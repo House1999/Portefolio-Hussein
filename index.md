@@ -5,14 +5,12 @@
 **Mettre codes + démo dans "/docs/" -> nouvelle rubrique Github.**
 
 - Chatbot - PAS (A5)
-
   - Trouver les bonnes pratiques et les meilleurs méthodes d'évaluation des performances.
   - Créer un chatbot permettant d'expliquer le déroulement de l'alternance à l'ESILV.
   - Créer une interface web intégrant le chatbot
 <br>  
 
 - Hackathon CNN : Construire des réseaux de neurons (RNN, CNN etc..) pour prédire l'age d'un ormeau. - CNN (A4)
-
   - Utiliser plusieurs configurations et méthodes de pénalisation.
   - Choisir la bonne loss function.
   - Savoir analyser les résultats.
@@ -21,7 +19,6 @@
 <br>
 
 - Prédire le succès d'un film - PTS (A4)
-
   - Définir les features
   - Création de la base de données en webscrappant imdb, youtube etc...
   - Data exploration et feature engineering avec R et MySQL
