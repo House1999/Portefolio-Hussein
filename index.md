@@ -76,18 +76,18 @@
   - Gérer le stock, la livraison et l'acheminement des produits commandés.
 <br>
 
-- Interface WPF pour gérer un club de Tennis - POO (A3)
+### Interface WPF pour gérer un club de Tennis - POO (A3)
 
-  - Login
-  - Inscription au club
+ - Login
+ - Inscription au club
 <br>
 
-- Application WPF permettant aux clients de soumettre des recettes et gagner de l'argent (points) quand un autre client utilise leur recette. BDD (A3) 
+### Application WPF permettant aux clients de soumettre des recettes et gagner de l'argent (points) quand un autre client utilise leur recette. BDD (A3) 
 
-  - Login
-  - Supprimer recette
-  - Gérer le stock des produits
-  - Classement hébdomadaire et realtime des recettes et des clients.
-  - Système de "points à gagner" dépendant du nombre de recettes achétées et soumises.
+ - Login
+ - Supprimer recette
+ - Gérer le stock des produits
+ - Classement hébdomadaire et realtime des recettes et des clients.
+ - Système de "points à gagner" dépendant du nombre de recettes achétées et soumises.
   
  <br>
